@@ -5,3 +5,6 @@
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.wrap = true
+
+-- because neorg
+vim.g.maplocalleader = ","
